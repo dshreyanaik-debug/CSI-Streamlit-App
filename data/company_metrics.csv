@@ -1,0 +1,6 @@
+company	sector	region	period	ghg_scope_total_tco2e	renewables_share	waste_circularity_index	water_stress_mgmt_index	workforce_incident_rate	diversity_ratio_exec	anti_corruption_policy	disclosure_transparency
+Aurora Energy	Energy	APAC	2025Q3	1200000	0.38	72	0.65	0.12	0.4	0.78	0.88
+Cirrus Tech	Tech	AMER	2025Q3	85000	0.68	90	0.82	0.02	0.3	0.9	0.96
+GreenGrid Power	Utilities	AMER	2025	640000	0.55	80	0.72	0.1	0.42	0.86	0.92
+MetroBuild Infra	Infrastructure	APAC	2025	430000	0.34	68	0.59	0.18	0.3	0.75	0.82
+PureLife Pharma	Pharma	EMEA	2025	270000	0.5	85	0.81	0.05	0.52	0.9	0.96
