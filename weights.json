@@ -1,0 +1,26 @@
+{
+  "E": {
+    "ghg_scope_total_tco2e": -0.4,
+    "renewables_share": 0.2,
+    "waste_circularity_index": 0.2,
+    "water_stress_mgmt_index": 0.2
+  },
+  "S": {
+    "workforce_incident_rate": -0.5,
+    "diversity_ratio_exec": 0.5
+  },
+  "G": {
+    "anti_corruption_policy": 0.5,
+    "disclosure_transparency": 0.5
+  },
+  "section_weights": {
+    "E": 0.5,
+    "S": 0.3,
+    "G": 0.2
+  },
+  "sentiment": {
+    "news_pos": 0.02,
+    "news_neg": -0.03,
+    "news_decay_days": 120
+  }
+}
